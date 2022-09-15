@@ -1,7 +1,7 @@
 // Import React
 import Head from 'next/head';
 import Link from 'next/link';
-// Product added
+// Product
 // Import Apollo
 import { ApolloClient, InMemoryCache, gql } from '@apollo/client';
 
